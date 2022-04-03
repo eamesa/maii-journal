@@ -20,7 +20,7 @@ assert_equal [1,2,3,4], (1...5).to_a
 
 - hash2 = Hash.new("dos") "dos" is the default value.
 
-- Didn't undertand this one
+- Didn't understand this one
 ```sh
   def test_default_value_with_block
     hash = Hash.new {|hash, key| hash[key] = [] }
@@ -33,3 +33,4 @@ assert_equal [1,2,3,4], (1...5).to_a
     assert_equal nil, hash[:three]
   end
   ```
+- Didn't understand constants
