@@ -8,6 +8,7 @@ Here are (at least) three things I learned from [The Ruby Koans](http://rubykoan
 -Ruby is hard!
 
 -assert test, "error message"
+
 -For Arrays array[2,5] means start at the element 2 and take 5 elements.
 
 ```sh
