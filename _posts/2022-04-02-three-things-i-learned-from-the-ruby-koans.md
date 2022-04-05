@@ -38,3 +38,5 @@ assert_equal [1,2,3,4], (1...5).to_a
 - What are the excpetions and error messages useful for? Are they just for writing the automated tests?
 - 
 - What does inject do?
+
+Better to use keyword arguments when defining methods because you can provide them in any order and call upon them. 
