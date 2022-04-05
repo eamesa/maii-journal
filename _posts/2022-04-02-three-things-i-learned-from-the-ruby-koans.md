@@ -34,3 +34,7 @@ assert_equal [1,2,3,4], (1...5).to_a
   end
   ```
 - Didn't understand constants
+
+- What are the excpetions and error messages useful for? Are they just for writing the automated tests?
+- 
+- What does inject do?
