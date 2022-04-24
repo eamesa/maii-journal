@@ -31,4 +31,20 @@ if (boolean) {
 } else {
  //block that ruins if boolean = false
  }
- ```
+ 
+ switch (condition){
+   case "condition1":
+    //block of code that runs if condition = condition1
+    break;
+   case "condition2":
+    //block of code that runs if condition = condition2
+    ;break
+   default "condition1":
+    //block of code that runs if no conditions are met
+    }
+```
+
+Any value provided to a conditional is converted to true or false. Falsey values are false, 0, null, '', undefined, NaN.
+
+### Ternaries
+
