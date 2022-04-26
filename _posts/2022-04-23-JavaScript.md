@@ -5,6 +5,7 @@ title: JavaScript
 
 Change html dinamicaly using JS
 
+Js is funtion oriented, so it uses callbacks. The callbacks work like ruby uses blocks.
 <script>
           
 </script>
@@ -46,5 +47,6 @@ if (boolean) {
 
 Any value provided to a conditional is converted to true or false. Falsey values are false, 0, null, '', undefined, NaN.
 
-### Ternaries
+# AJAX & Javascript for Rails delevopers 
+
 
