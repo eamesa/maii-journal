@@ -47,6 +47,18 @@ if (boolean) {
 
 Any value provided to a conditional is converted to true or false. Falsey values are false, 0, null, '', undefined, NaN.
 
+## Functions
+
+```
+let greeting = "Hola"
+
+function greet(name, ) {
+   console.log("${greeting} ${name}!"); 
+}
+
+greet(Harry)
+"Hola Harry!"
+```
 # AJAX & Javascript for Rails delevopers 
 
 
